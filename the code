@@ -1,5 +1,7 @@
 This code was influence by code by James Devi.
 *********************************************************************/
+
+
 #define BLYNK_PRINT Serial
 #include <Arduino.h>
 #include <Adafruit_BLE.h>
